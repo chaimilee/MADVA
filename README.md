@@ -4,8 +4,10 @@ Our motivation for creating MADVA (Master's in Applied Data science Virtual Advi
 
 To view the MADVA app go to the following url:
 https://chaimilee-madva-main-4gkmtw.streamlitapp.com/
-
 The main.py is the source code for the MADVA app and the requirements are in the requirements.txt file.
+
+![alt text](https://github.com/chaimilee/MADVA/blob/main/MADVA.png)
+
 
 ## Framework
 
